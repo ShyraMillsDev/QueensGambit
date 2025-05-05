@@ -1,4 +1,4 @@
-# QueensGambit# Queen’s Gambit
+# Queen’s Gambit
 
 **Queen’s Gambit** is a Twitch and Discord-based game bot where every move is a strategy, and every player’s choice feeds into a soul-for-soul system of betrayal, loyalty, and risk. Set inside a chilling horror logic world, this game connects directly with Soul Trail’s structure but introduces its own rules of sacrifice and royalty.
 
