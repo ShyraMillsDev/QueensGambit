@@ -55,3 +55,12 @@ GitHub: [@ShyraMillsDev](https://github.com/ShyraMillsDev)
 - Add point-based system for loyalty vs betrayal  
 - Visualize soul rankings on a web dashboard
 A command-based Twitch/Discord game bot inspired by strategy, deception, and soul-for-soul logic.
+
+---
+
+### ⚠️ License & Usage
+
+This project is protected under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
+You may not copy, remix, transform, or use any part of this code commercially without written permission from the creator.
+
+📬 For permission requests or collaboration inquiries, contact: @ShyraMillsDev
